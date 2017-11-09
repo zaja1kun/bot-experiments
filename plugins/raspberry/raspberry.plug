@@ -1,0 +1,9 @@
+[Core]
+Name = Raspberry
+Module = raspberry
+
+[Documentation]
+Description = This is a simple plugin for Raspberry Pi device control.
+
+[Python]
+Version = 3
